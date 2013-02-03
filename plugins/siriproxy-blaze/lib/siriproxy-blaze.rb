@@ -34,7 +34,7 @@ class SiriProxy::Plugin::Blaze < SiriProxy::Plugin
       say "Ok hit me up faggot!"
     else
       say "Fine, go away!"
-
+    end
     request_completed
   end
 end
